@@ -4,8 +4,8 @@ github.com/BurntSushi/toml
 # github.com/dimchansky/utfbom v1.1.1
 ## explicit
 github.com/dimchansky/utfbom
-# github.com/go-jose/go-jose/v4 v4.0.2
-## explicit; go 1.21
+# github.com/go-jose/go-jose/v4 v4.1.6
+## explicit; go 1.24.0
 github.com/go-jose/go-jose/v4
 github.com/go-jose/go-jose/v4/cipher
 github.com/go-jose/go-jose/v4/json
@@ -16,6 +16,3 @@ github.com/hashicorp/go-cleanhttp
 # github.com/hashicorp/go-retryablehttp v0.7.7
 ## explicit; go 1.19
 github.com/hashicorp/go-retryablehttp
-# golang.org/x/crypto v0.19.0
-## explicit; go 1.18
-golang.org/x/crypto/pbkdf2

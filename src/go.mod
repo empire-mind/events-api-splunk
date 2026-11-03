@@ -5,11 +5,8 @@ go 1.26.10
 require (
 	github.com/BurntSushi/toml v0.3.1
 	github.com/dimchansky/utfbom v1.1.1
-	github.com/go-jose/go-jose/v4 v4.0.2
+	github.com/go-jose/go-jose/v4 v4.1.6
 	github.com/hashicorp/go-retryablehttp v0.7.7
 )
 
-require (
-	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
-	golang.org/x/crypto v0.19.0 // indirect
-)
+require github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
